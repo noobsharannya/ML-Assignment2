@@ -1,0 +1,19 @@
+SVM Accuracy Score for binary classification of setosa from rest using linear kernel ->  100.0
+SVM Accuracy Score for binary classification of setosa from rest using radial basis function kernel ->  96.66666666666667
+SVM Accuracy Score for binary classification of setosa from rest using quadratic kernel ->  80.0
+SVM Accuracy Score for binary classification of versicolor from rest using linear kernel ->  63.33333333333333
+SVM Accuracy Score for binary classification of versicolor from rest using radial basis function kernel ->  100.0
+SVM Accuracy Score for binary classification of versicolor from rest using quadratic kernel ->  100.0
+SVM Accuracy Score for binary classification of virginica from rest using linear kernel ->  100.0
+SVM Accuracy Score for binary classification of virginica from rest using radial basis function kernel ->  100.0
+SVM Accuracy Score for binary classification of virginica from rest using quadratic kernel ->  46.666666666666664
+MLP Classifier accuracy score for Part a. ->  96.66666666666667
+MLP Classifier accuracy score for Part b. ->  100.0
+Features: 
+Sepal Width, Sepal Length, Petal Width, Petal Length, 
+Accuracy Score for Ensemble Learning of setosa ->  96.66666666666667
+Accuracy Score for Ensemble Learning of versicolor ->  100.0
+Accuracy Score for Ensemble Learning of virginica ->  100.0
+Accuracy Score for Ensemble Learning of setosa using alternative method->  80.0
+Accuracy Score for Ensemble Learning of versicolor using alternative method->  100.0
+Accuracy Score for Ensemble Learning of virginica using alternative method->  100.0
